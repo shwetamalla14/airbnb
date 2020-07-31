@@ -8,23 +8,7 @@ output:
 always_allow_html: yes
 ---
 # Market Assigned to the team :  SEATTLE
-<br>
 
-##### "We, the undersigned, certify that the report submitted is our own original work; all authors participated in the work in a substantiative way; all authors have seen and approved the report as submitted; the text, images, illustrations, and other items included in the manuscript do not carry any infringement / plagiarism issue upon any existing copyrighted materials."
-
-<br>
-
-<table border = "1"><thead>
-<tr> 
-<th> <tr> <td></td> <td> **Names of the signed team members** </td></tr></thead>
-<tbody align = center>
-  <tr > <td> Contact Member </td> <td> &ensp; Shweta Malla </td> </tr>
-  <tr> <td> Team Member 1 </td> <td> &ensp;    Ankita Mittal </td> </tr>
-  <tr> <td>  Team Member 2  </td> <td>&ensp;    Umang Patel </td> </tr>
-  <tr> <td>  Team Member 3  </td> <td>&ensp;   Avinav Dixit </td> </tr>
-  <tr> <td> Team Member 4 </td> <td>&ensp;    Kumar Saket </td> </tr>
-</tbody>
-</table>
 
 
 ```{r setup, include=FALSE}
